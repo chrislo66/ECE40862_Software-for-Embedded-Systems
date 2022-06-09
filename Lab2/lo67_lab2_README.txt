@@ -1,0 +1,3 @@
+This is my lab2 demo YouTube link: https://youtu.be/CHqz2BZVrZo
+
+On my circuit breadboard, the push button switch is connected to Pin 14. the potentiometer is connected to Pin 32, and the external LED is connected to Pin 15. I also connected a resistor to push button. In my program, ADC is connected to Pin 32 to read the analog input from potentiometer, and PWM is connected to Pin 15 to output signals to LED.
